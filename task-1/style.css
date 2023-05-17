@@ -1,0 +1,42 @@
+img {
+    width: 550px;
+    height: 350px;
+}
+
+.box__first{
+    display: inline;
+}
+
+.border {
+    color: blue;
+    border-radius: 5px;
+    display: inline;
+}
+
+.btn {
+    background-color: rgb(194, 211, 241);
+    padding: 5px 5px; 
+    display: inline;
+    border-radius: 5px;
+}
+
+.info{
+    font-size: 25px;
+    display: inline-block;
+}
+
+.box__second{
+    display: inline;
+}
+
+.main{
+    width: 550px;
+    display: inline-block;
+    margin: 20px 0;
+}
+
+.main2{
+    width: 550px;
+    display: inline-block;
+}
+
